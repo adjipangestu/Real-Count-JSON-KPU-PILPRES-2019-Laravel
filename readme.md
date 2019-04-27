@@ -13,5 +13,7 @@ Cara install
 
 ```sh
 clone or download
+```
+```sh
 composer update
 ```
