@@ -15,5 +15,5 @@ Cara install
 clone or download
 ```
 ```sh
-composer update
+composer update or composer install
 ```
